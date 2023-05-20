@@ -31,7 +31,7 @@ This project was developed by Shanmugapriya.
 
 ## Screenshots
 
-![Calculator App Screenshot](/screenshots/calculator_app.png)
+![Calculator App Screenshot](/firstpage.png)
 
 ## Contributing
 
