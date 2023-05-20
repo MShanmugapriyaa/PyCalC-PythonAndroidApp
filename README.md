@@ -1,20 +1,42 @@
-#python_Android_App- CalC
+# Calculator App
+
+This is a simple calculator application built using Python and Kivy framework.
+
+## Developer
+
+This project was developed by Shanmugapriya.
+
+## Features
+
+- Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
+- Input numbers using a numeric keypad or the computer keyboard.
+- Display the result of the calculations on the screen.
+
+## Prerequisites
+
+- Python 3.x
+- Kivy
+
+## Installation
+
+1. Clone the repository:
 
 
-#Android Application CalC
-Pyhon, Kivy for CalC
+## Usage
 
+1. Run the `main.py` file:
+2. Use the numeric keypad or computer keyboard to input numbers.
+3. Use the buttons on the calculator interface to perform arithmetic operations.
+4. The result of the calculations will be displayed on the screen.
 
-#Developed By : Shanmugapriya M
-#IDE: PyCharm
-#Language: Python
-#Library : Kivy
+## Screenshots
 
-Developed Simple basic calculator android application with fully using python with kivy library both for front-end and back-end.  
+![Calculator App Screenshot](/screenshots/calculator_app.png)
 
-Installaion:
--to test run in desktop Need to have an python in pc and use pycharm.
--"pip install kivy"
--"python main.py"
+## Contributing
 
-To test run in mobile, Download kivy launcher app from google playstore. Enable USB debug in mobile, make folder for APK file, copy file to mobile, then tap the file and Run. 
+Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to submit a pull request.
+
+## License
+
+You are free to use, modify, and distribute this project. See the [LICENSE](LICENSE) file for more details.
