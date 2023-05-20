@@ -31,7 +31,7 @@ This project was developed by Shanmugapriya.
 
 ## Screenshots
 
-![First Page Screenshot](/firstpage.png)
+![First Page Screenshot](Screenshoots/firstpage.png)
 
 
 ## Contributing
