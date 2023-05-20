@@ -30,8 +30,8 @@ This project was developed by Shanmugapriya.
 4. The result of the calculations will be displayed on the screen.
 
 ## Screenshots
+![First Page Screenshot](path/to/firstpage.png)
 
-![First Page Screenshot](Screenshoots/firstpage.png)
 
 
 ## Contributing
